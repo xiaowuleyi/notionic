@@ -31,11 +31,11 @@ const BLOG = {
   defaultCover: '/cover.jpg',
   socialLink: {
     twitter: 'https://twitter.com/xiaowuleyi',
-    github: 'https://github.com/xiaowuleyi',
+    github: '',
     telegram: 'https://t.me/xiaowuleyi'
   },
   seo: {
-    keywords: ['小吴乐意blog', '生活博客', '菲律宾生活'],
+    keywords: ['小吴乐意blog', '个人博客', '菲律宾生活', '独立博客', '比特币', '海外博客'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
   },
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS! Edit .env file!
