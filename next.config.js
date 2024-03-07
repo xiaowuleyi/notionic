@@ -6,7 +6,7 @@ module.exports = {
   },
   transpilePackages: ['dayjs'],
   images: {
-    domains: ['api.craft.do', 'www.notion.so', 'images.unsplash.com'， 'xiaowu2.notion.site'，'s3.us-west-2.amazonaws.com']
+    domains: ['api.craft.do', 'www.notion.so', 'images.unsplash.com', 'xiaowu2.notion.site', 's3.us-west-2.amazonaws.com']
   },
   async headers() {
     return [
