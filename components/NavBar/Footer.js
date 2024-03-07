@@ -62,7 +62,7 @@ const Footer = ({ fullWidth }) => {
       to: '/weibo',
       icon: <MailIcon className='inline-block mb-1 h-5 w-5' />,
       show: BLOG.pagesShow.weibo
-    }
+    },
   ]
 
   return (
