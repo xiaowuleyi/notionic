@@ -47,20 +47,13 @@ const NavBar = () => {
     },
     {
       id: 2,
-      name: t.NAV.NOTES,
-      to: '/notes',
-      icon: <CollectionIcon className='inline-block mb-1 h-5 w-5' />,
-      show: BLOG.pagesShow.notes
-    },
-    {
-      id: 3,
       name: t.NAV.PROJECTS,
       to: '/projects',
       icon: <SparklesIcon className='inline-block mb-1 h-5 w-5' />,
       show: BLOG.pagesShow.projects
     },
     {
-      id: 4,
+      id: 3,
       name: t.NAV.SEARCH,
       to: '/search',
       icon: <SearchIcon className='inline-block mb-1 h-5 w-5' />,
