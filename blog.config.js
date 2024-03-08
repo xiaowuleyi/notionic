@@ -2,7 +2,7 @@ const BLOG = {
   title: '小吴乐意Blog',
   author: '小吴',
   email: 'xiaowuleyi@gmail.com',
-  link: 'https://www.xiaowuleyi.com',
+  link: 'https://notionic-omega.vercel.app',
   newsletter: 'Notionic Weekly',
   description: 'A static blog build on top of Notion and Next.js',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
@@ -70,8 +70,8 @@ const BLOG = {
     // support provider: utterances, supacomments
     provider: '', // leave it empty if you don't need any comment plugin
     supaCommentsConfig: {
-      supabaseUrl: '', // The url of your Supabase instance
-      supabaseAnonKey: '' // The anonymous key of your Supabase instance
+      supabaseUrl: 'https://wowuvvqwkvseptarrusa.supabase.co', // The url of your Supabase instance
+      supabaseAnonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Indvd3V2dnF3a3ZzZXB0YXJydXNhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MDk4OTYxODYsImV4cCI6MjAyNTQ3MjE4Nn0.2FNljeUex-yInYV8SvWxlIHqzX6FAcPlVb82IUdoyJ8' // The anonymous key of your Supabase instance
     },
     utterancesConfig: {
       repo: ''
