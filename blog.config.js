@@ -2,7 +2,7 @@ const BLOG = {
   title: '小吴乐意Blog',
   author: '小吴',
   email: 'xiaowuleyi@gmail.com',
-  link: 'https://notionic-omega.vercel.app',
+  link: 'https://www.xiaowuleyi.com',
   newsletter: 'Notionic Weekly',
   description: 'A static blog build on top of Notion and Next.js',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
