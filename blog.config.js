@@ -22,7 +22,7 @@ const BLOG = {
     contact: true,
     books: true,
     friends: true,
-    weibo: true,
+    weibo: false,
   },
   showWeChatPay: true,
   previewImagesEnabled: true,
