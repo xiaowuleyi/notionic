@@ -4,7 +4,7 @@ const BLOG = {
   email: 'xiaowuleyi@gmail.com',
   link: 'https://www.xiaowuleyi.com',
   newsletter: 'Notionic Weekly',
-  description: '未来的种子，深埋在过去。',
+  description: 'The seeds of the future are buried deep in the past',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: 'auto', // ['light', 'dark', 'auto'],
